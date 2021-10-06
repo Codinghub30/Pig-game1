@@ -172,6 +172,7 @@ main {
 
     .text p {
   margin-top: -370px;
+          margin-left: -152px;
   font-size: 1.6rem;
   font-weight: 900;
 }
