@@ -169,3 +169,10 @@ main {
 .hidden {
   display: none;
 }
+
+    .text p {
+  margin-top: -370px;
+  font-size: 1.6rem;
+  font-weight: 900;
+}
+
